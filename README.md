@@ -1,4 +1,8 @@
 A WeatherAPP which shows information about the weather 
+
+
+
+
 **Screenshots for the same is as follows**
 
 
